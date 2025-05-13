@@ -1,5 +1,7 @@
 # ENRFC
 
+Note, this is the legacy ENRFC website - the new one is currently private. Message me for access.
+
 Edinburgh Northern Rugby Club React/Next/Sentry CMS
 
 ## Quick start
